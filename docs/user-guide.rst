@@ -1756,7 +1756,7 @@ on Juno, at the linux shell prompt, issue the following command:
 The Juno board should suspend to RAM and then wakeup after 10 seconds due to
 wakeup interrupt from RTC.
 
---------------
+----------------
 
 *Copyright (c) 2013-2017, ARM Limited and Contributors. All rights reserved.*
 
